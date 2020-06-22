@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components/native';
 
 const Container = styled.View`
-  height: 40px;
+  height: 120px;
   justify-content: center;
   align-items: center;
 `;

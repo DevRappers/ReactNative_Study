@@ -9,9 +9,7 @@ import TodoItem from './TodoItem';
 
 const Container = styled(FlatList)``;
 
-interface Props {}
-
-const TodoList = ({}: Props) => {
+const TodoList = () => {
   const {todoList, removeTodoList} = useContext<ITodoListContext>(
     TodoListContext,
   );

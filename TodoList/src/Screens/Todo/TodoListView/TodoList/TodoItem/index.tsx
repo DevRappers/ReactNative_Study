@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components/native';
-import removeIcon from '../../../../../Assets/Images/add.png';
+import removeIcon from '../../../../../Assets/Images/remove.png';
 
 const Container = styled.View`
   flex-direction: row;
